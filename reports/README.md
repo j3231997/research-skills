@@ -6,6 +6,7 @@
 
 | 完成日期 | 公司 | 代號 | 產業 | 財報公布日 | 股價反應 | 後續更新 |
 |---|---|---|---|---|---|---|
+| 10/23 | [Union Pacific](UNP_Q3_2026.md) | UNP | 鐵路 | 10/22 | +3.59% | 10/23 依新版 skill 改寫 |
 | 10/23 | [Blackstone](BX_Q3_2026.md) | BX | 金融 | 10/22 | +8.38% | |
 | 10/23 | [Southwest Airlines](LUV_Q3_2026.md) | LUV | 航空 | 10/21 | 隔日 +5.36% | |
 | 10/23 | [American Airlines](AAL_Q3_2026.md) | AAL | 航空 | 10/22 | +2.98% | |
@@ -13,7 +14,6 @@
 | 10/23 | [Honeywell](HON_Q3_2026.md) | HON | 工業 | 10/22 | +1.67% | |
 | 10/23 | [Dow](DOW_Q3_2026.md) | DOW | 化工 | 10/22 | +4.57% | |
 | 10/23 | [Norfolk Southern](NSC_Q3_2026.md) | NSC | 鐵路 | 10/22 | +3.03% | |
-| 10/23 | [Union Pacific](UNP_Q3_2026.md) | UNP | 鐵路 | 10/22 | +3.59% | |
 | 10/22 | [Lithia & Driveway](LAD_Q3_2026.md) | LAD | 汽車經銷 | 10/21 | -10.25% | |
 | 10/22 | [Knight-Swift](KNX_Q3_2026.md) | KNX | 卡車運輸 | 10/21 | 盤後 +3.26% | |
 | 10/22 | [United Rentals](URI_Q3_2026.md) | URI | 設備租賃 | 10/21 | 隔日 +3.93% | 10/23 補法說內容 |
