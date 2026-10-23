@@ -1,27 +1,27 @@
 # 財報分析報告索引
 
-點公司名稱即可開啟報告。新報告會持續加入此表。
+依報告完成時間排序（由舊到新），點公司名稱即可開啟。新報告會持續加在表格最下方。
 
 ## 2026 年第三季
 
-| 產業 | 公司 | 代號 | 公布日 | 股價反應 |
-|---|---|---|---|---|
-| 航太國防 | [GE Aerospace](GE_Q3_2026.md) | GE | 10/20 | -3.65% |
-| 航太國防 | [RTX](RTX_Q3_2026.md) | RTX | 10/20 | +0.64% |
-| 航太國防 | [Lockheed Martin](LMT_Q3_2026.md) | LMT | 10/22 | +6.96% |
-| 航太國防 | [SpaceX](SPCX_Q3_2026.md) | SPCX | 10/20 | 盤後 +8.06% |
-| 航空 | [United Airlines](UAL_Q3_2026.md) | UAL | 10/20 | 隔日 +3.99% |
-| 航空 | [American Airlines](AAL_Q3_2026.md) | AAL | 10/22 | +2.98% |
-| 航空 | [Southwest Airlines](LUV_Q3_2026.md) | LUV | 10/21 | 隔日 +5.36% |
-| 鐵路 | [Union Pacific](UNP_Q3_2026.md) | UNP | 10/22 | +3.59% |
-| 鐵路 | [Norfolk Southern](NSC_Q3_2026.md) | NSC | 10/22 | +3.03% |
-| 鐵路 | [CSX](CSX_Q3_2026.md) | CSX | 10/21 | 盤後 +3.66% |
-| 卡車運輸 | [Knight-Swift](KNX_Q3_2026.md) | KNX | 10/21 | 盤後 +3.26% |
-| 汽車 | [Tesla](TSLA_Q3_2026.md) | TSLA | 10/21 | 盤後 -3.32% |
-| 汽車 | [General Motors](GM_Q3_2026.md) | GM | 10/20 | -6.84% |
-| 汽車經銷 | [Lithia & Driveway](LAD_Q3_2026.md) | LAD | 10/21 | -10.25% |
-| 工業 | [Honeywell](HON_Q3_2026.md) | HON | 10/22 | +1.67% |
-| 工業 | [ABB](ABB_Q3_2026.md) | ABBN | 10/20 | -5.01% |
-| 工業 | [United Rentals](URI_Q3_2026.md) | URI | 10/21 | 隔日 +3.93% |
-| 化工 | [Dow](DOW_Q3_2026.md) | DOW | 10/22 | +4.57% |
-| 金融 | [Blackstone](BX_Q3_2026.md) | BX | 10/22 | +8.38% |
+| 完成日期 | 公司 | 代號 | 產業 | 財報公布日 | 股價反應 | 後續更新 |
+|---|---|---|---|---|---|---|
+| 10/21 | [SpaceX](SPCX_Q3_2026.md) | SPCX | 航太 | 10/20 | 盤後 +8.06% | |
+| 10/21 | [General Motors](GM_Q3_2026.md) | GM | 汽車 | 10/20 | -6.84% | |
+| 10/21 | [United Airlines](UAL_Q3_2026.md) | UAL | 航空 | 10/20 | 隔日 +3.99% | 10/22 補法說內容 |
+| 10/21 | [GE Aerospace](GE_Q3_2026.md) | GE | 航太 | 10/20 | -3.65% | |
+| 10/21 | [RTX](RTX_Q3_2026.md) | RTX | 航太國防 | 10/20 | +0.64% | |
+| 10/21 | [ABB](ABB_Q3_2026.md) | ABBN | 工業 | 10/20 | -5.01% | |
+| 10/22 | [Tesla](TSLA_Q3_2026.md) | TSLA | 汽車 | 10/21 | 盤後 -3.32% | 10/22 補資本支出說明 |
+| 10/22 | [CSX](CSX_Q3_2026.md) | CSX | 鐵路 | 10/21 | 盤後 +3.66% | |
+| 10/22 | [United Rentals](URI_Q3_2026.md) | URI | 設備租賃 | 10/21 | 隔日 +3.93% | 10/23 補法說內容 |
+| 10/22 | [Knight-Swift](KNX_Q3_2026.md) | KNX | 卡車運輸 | 10/21 | 盤後 +3.26% | |
+| 10/22 | [Lithia & Driveway](LAD_Q3_2026.md) | LAD | 汽車經銷 | 10/21 | -10.25% | |
+| 10/23 | [Union Pacific](UNP_Q3_2026.md) | UNP | 鐵路 | 10/22 | +3.59% | |
+| 10/23 | [Norfolk Southern](NSC_Q3_2026.md) | NSC | 鐵路 | 10/22 | +3.03% | |
+| 10/23 | [Dow](DOW_Q3_2026.md) | DOW | 化工 | 10/22 | +4.57% | |
+| 10/23 | [Honeywell](HON_Q3_2026.md) | HON | 工業 | 10/22 | +1.67% | |
+| 10/23 | [Lockheed Martin](LMT_Q3_2026.md) | LMT | 國防 | 10/22 | +6.96% | |
+| 10/23 | [American Airlines](AAL_Q3_2026.md) | AAL | 航空 | 10/22 | +2.98% | |
+| 10/23 | [Southwest Airlines](LUV_Q3_2026.md) | LUV | 航空 | 10/21 | 隔日 +5.36% | |
+| 10/23 | [Blackstone](BX_Q3_2026.md) | BX | 金融 | 10/22 | +8.38% | |
